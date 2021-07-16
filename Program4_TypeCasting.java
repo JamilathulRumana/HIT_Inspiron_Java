@@ -1,7 +1,7 @@
 
 public class Program4_TypeCasting {
 	public static void main(String[] args) {
-		//automatic type promotion
+		//automatic type casting
 		byte b = 10;
 		short s = b;
 		int i = s;
