@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Program6_QuotientRemainder {
+public class Program6_i_QuotientRemainder {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
